@@ -6,3 +6,6 @@
 - Factory pattern
 - Proxy pattern
 - adapter pattern
+- singleton pattern
+- builder pattern
+- abstract factory
