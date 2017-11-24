@@ -5,3 +5,4 @@
 **Patter that described in project:**
 - Factory pattern
 - Proxy pattern
+- adapter pattern
